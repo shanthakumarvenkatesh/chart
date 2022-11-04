@@ -8,6 +8,7 @@
   },
   "dependencies": {
     "@react-hook/window-size": "3.0.7",
+    "eslint-config-prettier": "^8.5.0",
     "react": "^16.8.6",
     "react-charts": "next",
     "react-dom": "^16.8.6",
